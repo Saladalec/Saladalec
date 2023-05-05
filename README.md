@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name is Alexander Brown. I graduated from the University of Pittsburgh in 2021 with a Bachelor's degree in Computer Engineering.
+I am furthering my education trouch Tech Elevator's full stack development Java bootcamp.
+Thank you!
